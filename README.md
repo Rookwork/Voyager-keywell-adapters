@@ -24,3 +24,5 @@ As with any non-official ZSA accessory design, ZSA cannot provide warranty suppo
 Special thanks to Thomas Tse (tomtomthing) for the [design inspiration](https://www.thingiverse.com/thing:5932496), Voyager user Joseph Lee for sharing his version of this, and to ZSA CEO Erez for testing the design and providing feedback. 
 
 Thanks as well to user UhForgot on Reddit for [being the first person](https://www.reddit.com/r/zsaVoyager/comments/1fjhtz1/1_year_with_the_zsa_voyager/) (that I've seen) to try this out!
+
+[u/UhForgot's Voyager](uhforgot.jpg)
