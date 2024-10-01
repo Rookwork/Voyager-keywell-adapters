@@ -22,3 +22,5 @@ If you need STL files, please see the separate readme in the STL files folder.
 As with any non-official ZSA accessory design, ZSA cannot provide warranty support if something goes wrong. I am providing this design free of charge and also not promising any sort of warranty or support personally. Again, please be careful if you try out this design. 
 
 Special thanks to Thomas Tse (tomtomthing) for the [design inspiration](https://www.thingiverse.com/thing:5932496), Voyager user Joseph Lee for sharing his version of this, and to ZSA CEO Erez for testing the design and providing feedback. 
+
+Thanks as well to user UhForgot on Reddit for [being the first person](https://www.reddit.com/r/zsaVoyager/comments/1fjhtz1/1_year_with_the_zsa_voyager/) (that I've seen) to try this out!
