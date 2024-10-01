@@ -25,4 +25,4 @@ Special thanks to Thomas Tse (tomtomthing) for the [design inspiration](https://
 
 Thanks as well to user UhForgot on Reddit for [being the first person](https://www.reddit.com/r/zsaVoyager/comments/1fjhtz1/1_year_with_the_zsa_voyager/) (that I've seen) to try this out!
 
-[u/UhForgot's Voyager](uhforgot.jpg)
+![u/UhForgot's Voyager](uhforgot.jpg)
