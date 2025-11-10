@@ -17,3 +17,5 @@ A complete set of adapters for both halves of the Voyager will need these parts:
 - 8x Middle 0
 - 8x Middle 1
 - 8x Middle 2
+
+Use the Middle_0_deeper.stl file instead of the original Middle_0.stl file for the home row buttons if you find that they fall out of the original adapter too easily.
